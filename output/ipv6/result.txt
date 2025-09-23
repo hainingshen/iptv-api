@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-21 18:34:26,https://cc06.tv12.xyz/8.m3u8$订阅源
+2025-09-23 18:35:07,https://cc06.tv12.xyz/9.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-7,https://cc06.tv12.xyz/8.m3u8$订阅源
 CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
 CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
 CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
@@ -20,7 +19,6 @@ CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
-CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b00bc77e20b635782f8f1b649484af222d8b84873e49ef422088e12f72be410b13fcc2bc2b13116a000270e46fef922109f32f7c7e667093cd1f09a3c6d24484f34ab9287$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -39,7 +37,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
-山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
